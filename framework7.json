@@ -1,0 +1,19 @@
+{
+  "cwd": "/Users/mariusznowak/local_sites/dev_toolkit",
+  "type": [
+    "web"
+  ],
+  "name": "Vema Dev Toolkit",
+  "framework": "react",
+  "template": "tabs",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": true,
+    "color": "#4787cc",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": true
+  },
+  "customBuild": false
+}
