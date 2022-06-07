@@ -3,6 +3,7 @@
 Simple app, that includes some useful generators when working on the frontend.
 
 ## Live demo
+https://vema-dev.github.io/toolkit/www/
 
 ## Install Dependencies
 
